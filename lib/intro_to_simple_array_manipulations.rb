@@ -10,3 +10,8 @@ def array_unshift_method(smoothie_array, "rose")
   smoothie_array.unshift("rose")
 end 
 
+def array_pop_method
+  array_pop_method = ["array", "pop", "method"]
+  array_pop_method.pop
+end 
+
