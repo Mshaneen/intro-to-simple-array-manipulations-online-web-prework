@@ -14,4 +14,3 @@ def array_pop_method
   array_pop_method = ["array", "pop", "method"]
   array_pop_method.pop
 end 
-
